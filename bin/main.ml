@@ -1,0 +1,1 @@
+Utils.mkdir_p "/home/udit/.notes/"
